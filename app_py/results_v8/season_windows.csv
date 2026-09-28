@@ -1,0 +1,7 @@
+season,window_start,window_end,days,cc_seed_date,termination,seeding_method,start_source,end_source
+2018-19,2019-03-01,2019-05-15,76,,2019-05-15,fall seeding (dates not reported),spring after fall seeding (seed date not reported),default (not reported)
+2019-20,2020-03-01,2020-05-15,76,,2020-05-15,fall seeding (dates not reported),spring after fall seeding (seed date not reported),default (not reported)
+2020-21,2021-03-01,2021-05-15,76,,2021-05-15,fall seeding (dates not reported),spring after fall seeding (seed date not reported),default (not reported)
+2021-22,2022-03-01,2022-05-16,77,2021-11-08,2022-05-16,fall drilled after soybean,spring after fall seeding,paper termination
+2022-23,2022-06-27,2023-05-18,326,2022-06-27,2023-05-18,interseeded into V-stage corn,paper interseeding date,paper termination
+2023-24,2024-03-01,2024-05-15,76,2023-11-13,2024-05-15,fall drilled after soybean,spring after fall seeding,paper termination
