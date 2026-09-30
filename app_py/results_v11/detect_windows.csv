@@ -1,0 +1,5 @@
+season,window,start,end,source,days
+2021-22,spring,2022-03-01,2022-05-16,spring after fall seeding,77
+2022-23,corn,2022-06-27,2022-10-14,interseeding → last corn scene; control NDVI 0.52 on 2022-10-14 → 0.36 on 2022-10-29 (threshold 0.4),110
+2022-23,postharvest,2022-10-29,2023-05-18,first post-harvest scene → termination; control NDVI 0.52 on 2022-10-14 → 0.36 on 2022-10-29 (threshold 0.4),202
+2023-24,spring,2024-03-01,2024-05-15,spring after fall seeding,76
